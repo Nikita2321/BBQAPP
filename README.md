@@ -17,10 +17,7 @@ Custom Animations: Utilized for enhancing the user experience with visually appe
 Installation
 Clone the Repository:
 bash
- 
-git clone https://github.com/your-username/bbq-recipe-generator.git
-Navigate to the Project Directory:
-bash
+  
  
 cd bbq-recipe-generator
 Install Dependencies:
